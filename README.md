@@ -11,6 +11,9 @@
 [![Join the chat at https://gitter.im/LightTable/LightTable](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LightTable/LightTable?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Code Shelter](https://www.codeshelter.co/static/badges/badge-flat.svg)](https://www.codeshelter.co/)
 
+[![security status](https://www.meterian.com/badge/gh/bbossola/LightTable/security?branch=meterian)](https://www.meterian.com/report/gh/bbossola/LightTable?branch=meterian)
+[![stability status](https://www.meterian.com/badge/gh/bbossola/LightTable/stability?branch=meterian)](https://www.meterian.com/report/gh/bbossola/LightTable?branch=meterian)
+
 Light Table is a next generation code editor that connects you to your creation with instant feedback. Light Table is very customizable and can display anything a [Chromium browser](http://www.chromium.org/) can.
 
 ### This is a development branch and is not clean like `master` and can have many breakages.
